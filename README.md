@@ -17,3 +17,8 @@ The interface of the structure is in the file RTree.scala with the functions:
 * `Point.scala`  Represents a D-dimensional point stored in the tree.
 * `Range.scala`  Represents a D-dimensional range to query the tree.
 * `Main.scala`  Provides a basic CLI to test the structure.
+
+## Credits
+This project was written with:
+* [pfloros20](https://github.com/pfloros20)
+* [PanosXatz](https://github.com/PanosXatz)
